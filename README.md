@@ -41,7 +41,7 @@ Contribution Guidelines
 
 We're here to support your journey with RealEstateCRM. If you have questions, encounter issues, or need assistance, don't hesitate to reach out. Our responsive support team is dedicated to helping you succeed.
 
-For support inquiries, email us at: prolinkinfotechh@gmail.com
+
 
 ## **License**
 
